@@ -32,4 +32,5 @@ pays for a meal cooked specifically for them, customers in the technology field 
 
 
 How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
-ANSWER: Keeping the design document in mind, I 
+ANSWER: Keeping the customer's requirements and requests in mind, I tried my best to make the recommendations best suited for their intentions on how
+the game will be played, all while making sure it ran well and didn't have any major security concerns.
